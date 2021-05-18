@@ -8,20 +8,20 @@ Content
  
 * 1 Intro
 * 2 casa.finance protocol
-        	* 2.1 Lending
-		        * 2.1.1 Due diligence 
-        	* 2.2 Borrowing
-        	* 2.3 Consensus
-3 Architecture
-        	3.1 Contracts
-        	3.2 Rate Mechanics
-	        3.3 Credit Models
-        	3.4 Risk Profile
-        	3.5 Default
-        	3.6 Controller
-        	3.7 Oracles
-        	3.8 Governance
-4 Summary
+	* 2.1 Lending
+		* 2.1.1 Due diligence 
+        * 2.2 Borrowing
+        * 2.3 Consensus
+* 3 Architecture
+	* 3.1 Contracts
+        * 3.2 Rate Mechanics
+	* 3.3 Credit Models
+        * 3.4 Risk Profile
+        * 3.5 Default
+        * 3.6 Controller
+        * 3.7 Oracles
+        * 3.8 Governance
+* 4 Summary
 
 
 
@@ -98,12 +98,12 @@ Data-source authentication: Tools that enable data providers to digitally sign t
 
 Offramp data, this ecompasses all the inputs needed for borrowers to access our lending pools. In the initial stage this process will be similar to today's process in the real estate investment industry. Data needed:
 
-Credit check *(Credit checks will be used for the initial round of properties but we will be working with oracles that allow us to merge artificial intelligence inputs into this decisions, creating a more comprehensive score for today financial world)
-Property Purchase Contract 
-Title Search 
-Lien Search 
-Title Insurance (These data input will be time limited, we believe properties will start utilizing blockchain technology to record folio numbers and property information, to the point where title insurance policies will not be necessary in this extent)
-Investing History (Lending home onboarding process)
+* Credit check *(Credit checks will be used for the initial round of properties but we will be working with oracles that allow us to merge artificial intelligence inputs into this decisions, creating a more comprehensive score for today financial world)
+* Property Purchase Contract 
+* Title Search 
+* Lien Search 
+* Title Insurance (These data input will be time limited, we believe properties will start utilizing blockchain technology to record folio numbers and property information, to the point where title insurance policies will not be necessary in this extent)
+* Investing History (Lending home onboarding process)
 
 ## 2.2 Borrowing 
 
@@ -111,7 +111,7 @@ Borrowers portal will work as a Dapp, where they will input loan information for
 
 Borrower's advantage is that they will access a new form of liquidity where rates should represent a discount to regular lenders in the industry, they will also receive governance tokens for the use of the platform, potentially lowering their monthly interest responsibility. 
 
-#Example: 
+# Example: 
 
 Borrower A
 
@@ -130,25 +130,17 @@ Consensus will serve as the mechanism that establishes the interest rate by borr
 
 Borrower A has a internal consensus score of 9 out of 10, his rate bracket differs in the method expressed below: 
 
-Borrower 
-Consensus Score
-Rate Bracket 
-A
-9.5
-7%
-B
-7
-9%
-C
-5
-12%
-D
-8.8
-7.5%
+Borrower  | Concensus Score | Rate Bracket
+------ | ------ | ------
+A  | 9.5 | 7%
+B  | 7 | 9%
+C  | 5 | 12%
+D  | 8.8 | 7.5%
+
 
 ## 3. Architecture 
 
-#3.1 Contracts 
+# 3.1 Contracts 
 
 Technical Data Input 
 
