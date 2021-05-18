@@ -6,12 +6,12 @@ This site will serve as a project overview for Uniswap - explaining how it works
 
 Content
  
-1 Intro
-2 casa.finance protocol
-        	2.1 Lending
-		        2.1.1 Due diligence 
-        	2.2 Borrowing
-        	2.3 Consensus
+* 1 Intro
+* 2 casa.finance protocol
+        	* 2.1 Lending
+		        * 2.1.1 Due diligence 
+        	* 2.2 Borrowing
+        	* 2.3 Consensus
 3 Architecture
         	3.1 Contracts
         	3.2 Rate Mechanics
