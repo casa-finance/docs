@@ -1,10 +1,30 @@
 # Getting Started
 
-Designed with simplicity in mind, the Uniswap protocol provides an interface for seamless exchange of ERC20 tokens on Ethereum. By eliminating unnecessary forms of rent extraction and middlemen it allows faster, more efficient exchange. Where it makes tradeoffs, decentralization, censorship resistance, and security are prioritized.
-
-Uniswap is open source and functions as a public good. There is no central token or platform fee. No special treatment is given to early investors, adopters, or developers. Token listing is open and free. All smart contract functions are public and all upgrades are opt-in.
+casa.finance is a hybrid protocol bridging real estate financing products through decentralized consensus mechanisms funded by liquidity pools. Opening the door to real estate collateralized loans to the decentralized finance ecosystem built on Ethereum.
 
 This site will serve as a project overview for Uniswap - explaining how it works, how to use it, and how to build on top of it. These docs are actively being worked on and more information will be added on an ongoing basis.
+
+Content
+ 
+1 Intro
+2 casa.finance protocol
+        	2.1 Lending
+		        2.1.1 Due diligence 
+        	2.2 Borrowing
+        	2.3 Consensus
+3 Architecture
+        	3.1 Contracts
+        	3.2 Rate Mechanics
+	        3.3 Credit Models
+        	3.4 Risk Profile
+        	3.5 Default
+        	3.6 Controller
+        	3.7 Oracles
+        	3.8 Governance
+4 Summary
+
+
+
 
 ## V1 Features
 
@@ -23,13 +43,13 @@ This site will serve as a project overview for Uniswap - explaining how it works
 
 ## Resources
 
-* [Website](https://uniswap.io)
-* [Github](https://github.com/Uniswap)
-* [Twitter](https://twitter.com/UniswapExchange)
-* [Reddit](https://www.reddit.com/r/UniSwap/)
-* [Slack](https://join.slack.com/t/uni-swap/shared_invite/enQtNDYwMjg1ODc5ODA4LWEyYmU0OGU1ZGQ3NjE4YzhmNzcxMDAyM2ExNzNkZjZjZjcxYTkwNzU0MGE3M2JkNzMxOTA2MzE2ZWM0YWQwNjU)
-* [Email](mailto:contact@uniswap.io?Subject=Contact%20Uniswap)
-* [Whitepaper](https://hackmd.io/s/HJ9jLsfTz)
+* [Website](https://casa.finance)
+* [Github](https://github.com/casa.finance)
+* [Twitter](https://twitter.com/casa.finance)
+* [Reddit](https://www.reddit.com/casa.finance)
+* [Discord](https://)
+* [Email](mailto:contact@casa-finance.io)
+* [Whitepaper](https://)
 
 ## How it works
 
